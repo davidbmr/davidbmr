@@ -1,8 +1,5 @@
 <h1 align="center">¡Hola mundo! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" /> Soy David Machuca, Full Stack Developer</h1>
 
-<div align="center">
-  <img align="center" style="width: 50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-</div>
 <h2 align="left">📖 Sobre mi</h2>
 <h4 align="left">Soy desarollador web con experiencia trabajando tanto en el frontend, como en el backend. Me especializo en crear aplicaciones robustas y puedo trabajar tanto en el código del lado del cliente como del servidor. Actualmente cuento con experiencia creando aplicaciones web con JavaScript, React, NodeJs, Express, PostgreSQL.</h4>
 
@@ -26,11 +23,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="" />
-</div>
-
-<h2 align="left">📌 Mis proyectos</h2>
-<div>
-  <img width="410px" height="230px" src="https://david-machuca.vercel.app/static/media/pokeapp.bdcc186bf15a6dc38d57.PNG" />
 </div>
 
 <br />
